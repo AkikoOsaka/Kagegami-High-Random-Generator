@@ -118,7 +118,7 @@ namespace kagegami {
     document.querySelector("#weird").textContent = "Weird: " + weird.toString();
     document.querySelector("#stresslimit").textContent = "Stress Limit: " + stresslimit.toString();
 
-    document.querySelector("#traits").textContent = "Traits: " + trait1.name + ", " + trait2.name;
+    document.querySelector("#traits").textContent = "Special Quality: " + trait1.name + ", " + trait2.name;
     document.querySelector("#hobby").textContent = "Hobby: " + hobby;
     document.querySelector("#motivation").textContent = "Character Motivation : " + motivation;
     document.querySelector("#explosion").textContent = "Stress Explosion: " + explosion;
