@@ -80,6 +80,9 @@ var kagegami;
     let stresslimit = moxie * 5;
     let trait1 = getTrait();
     let trait2 = getTrait();
+    while (trait2 == trait1) {
+        trait2 = getTrait();
+    }
     let hobby = getHobby();
     let motivation = getMotivation();
     let explosion = getExplosion();

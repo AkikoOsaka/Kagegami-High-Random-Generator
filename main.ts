@@ -101,6 +101,9 @@ namespace kagegami {
 
     let trait1: Trait = getTrait();
     let trait2: Trait = getTrait();
+    while (trait2 == trait1) {
+        trait2 = getTrait();
+    }
 
     let hobby: string = getHobby();
     let motivation: string =  getMotivation();
