@@ -345,7 +345,7 @@ var kagegami;
         },
         4: {
             name: "Microblogging",
-            text: "You’ve become obsessed with Chitter or a similar microblogging plaƞorm, and can’t help but post all the time."
+            text: "You’ve become obsessed with Chitter or a similar microblogging platform, and can’t help but post all the time."
         },
         5: {
             name: "Only Eats Instant Ramen",
@@ -611,19 +611,19 @@ var kagegami;
     kagegami.traitIdentity = {
         1: {
             name: "Magical Girl",
-            text: "You possess the sort of girly magic that lets you transform into yourself, but with a frilly ouƞit and magic wand."
+            text: "You possess the sort of girly magic that lets you transform into yourself, but with a frilly outfit and magic wand."
         },
         3: {
             name: "Ranger",
-            text: "Taking after the sentai heroes on TV, you have the power to turn into a hero in a colored spandex ouƞit with matching mask."
+            text: "Taking after the sentai heroes on TV, you have the power to turn into a hero in a colored spandex outfit with matching mask."
         },
         5: {
             name: "Rider",
-            text: "You are a masked rider type hero, who can transform into a sort of grasshopper-themed ouƞit and ride a motorcycle."
+            text: "You are a masked rider type hero, who can transform into a sort of grasshopper-themed outfit and ride a motorcycle."
         },
         6: {
             name: "Spandex Heroine",
-            text: "You have a double-life as a Western-style superheroine in a spandex ouƞit"
+            text: "You have a double-life as a Western-style superheroine in a spandex outfit"
         }
     };
     kagegami.traitSupernatural = {
