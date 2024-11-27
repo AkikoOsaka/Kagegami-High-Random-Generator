@@ -326,7 +326,7 @@ var kagegami;
     };
     kagegami.traitAgent = {
         1: {
-            name: "Agent",
+            name: "Government Agent",
             text: "Whether or not you are genuinely in need of a high school education, in addition to being a student you are an agent of some sort of government agency. You are not entirely clear on the details (the sorts of agencies that have agents at Kagegami High are particularly byzantine, even by the standards of the Japanese government), but you do periodically get orders to follow and paperwork to fill out."
         }
     };
@@ -358,7 +358,7 @@ var kagegami;
     };
     kagegami.traitHair = {
         1: {
-            name: "Anthenna Hair",
+            name: "Antenna Hair",
             text: "Sometimes known as an “ahoge,” you have one or more sprigs of hair that constantly stick up."
         },
         3: {
@@ -370,7 +370,7 @@ var kagegami;
             text: "Your hair has elaborate ringlets or pigtails that form sort of drill shapes."
         },
         5: {
-            name: "Long, Flowing Gair",
+            name: "Long, Flowing Hair",
             text: "You have particularly long, flowing hair."
         }
     };
