@@ -321,12 +321,12 @@ var kagegami;
     kagegami.traitGlasses = {
         1: {
             name: "Glasses",
-            text: "Whether or not you are genuinely in need of a high school education, in addition to being a student you are an agent of some sort of government agency. You are not entirely clear on the details (the sorts of agencies that have agents at Kagegami High are particularly byzantine, even by the standards of the Japanese government), but you do periodically get orders to follow and paperwork to fill out"
+            text: "You wear eyeglasses. You can decide what style, and whether you're nearsighted, farsighted, or just wear them as an affectation."
         }
     };
     kagegami.traitAgent = {
         1: {
-            name: "Glasses",
+            name: "Agent",
             text: "Whether or not you are genuinely in need of a high school education, in addition to being a student you are an agent of some sort of government agency. You are not entirely clear on the details (the sorts of agencies that have agents at Kagegami High are particularly byzantine, even by the standards of the Japanese government), but you do periodically get orders to follow and paperwork to fill out."
         }
     };
